@@ -1,6 +1,5 @@
 ﻿<?php
 /*
-//запуск сессии
 session_start();
 //подключение библиотек
 require "/lounge/calculator.php";*/
